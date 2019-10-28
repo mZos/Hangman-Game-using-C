@@ -1,4 +1,4 @@
-#include "functions.h"  //header file for hangman
+#include "functions.h"  //including functions.h file
 int main()       //main function start
 {
 int a=0,score=0;  
